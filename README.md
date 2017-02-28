@@ -13,6 +13,8 @@ But a few new things will be thrown in along the way:
 
 ### [Text of the cupcake exercise]
 
+## [Link to shared google doc](https://docs.google.com/document/d/1x8VzwHrfKeVHiUy9CLpQg57RplmIUQrGPw3RJrBs-r0/edit)
+
 # Weekplan
 
 Day | Topic
