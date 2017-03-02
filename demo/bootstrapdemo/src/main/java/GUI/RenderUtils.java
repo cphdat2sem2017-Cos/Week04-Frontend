@@ -1,6 +1,8 @@
 package GUI;
 
+import ModelLayer.CartItem;
 import java.time.LocalDate;
+import java.util.List;
 
 /**
  The purpose of RenderUtils is to...
@@ -44,5 +46,13 @@ public class RenderUtils {
         return "<div class=\"brand\">AP Cupcakes</div>\n"
                 + "    <div class=\"address-bar\">Nørgaardsvej 30 | "
                 + "2800 Kongens Lyngby </div>";
+    }
+    
+    public static String writeShopTable(List<CartItem> elements){
+        StringBuilder sb = new StringBuilder();
+        for (CartItem item: elements){
+            sb.append( "<tr><td>");
+            sb.append(item.)
+        }
     }
 }

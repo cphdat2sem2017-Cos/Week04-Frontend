@@ -132,12 +132,8 @@
                                     <th>Price</th>
                                 </tr>
                             </thead>
-                            <tr>
-                                <td>Cinamon</td>
-                                <td>Blueberry</td>
-                                <td>3</td>
-                                <td>12.-</td>
-                            </tr>
+                            
+                            <%=RenderUtils.writeShopTable(null)%>
                         </table>
                         <img class="img-responsive" src="img/intro-pic.jpg" alt="">
                     </div>

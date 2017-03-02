@@ -60,7 +60,40 @@ You will get to work extensively with Javascript on third semester, and this wee
 
 Again, [w3schools has some reasonable intro](https://www.w3schools.com/js/default.asp).
 
+In class we looked at and talked about the following example:
 
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>What Can JavaScript Do?</h1>
+<script>
+	document.write("Text1");
+	var i = 1;
+</script>
+<p id="demo">JavaScript can change HTML content.</p>
+<button type="button" onclick='{
+	i++; 
+	if(i>2){i=0;}; 
+	document.getElementById("demo").innerHTML 
+		= "<h3>COS: " + a[i] +"</h3>"}'>
+Click Me!
+</button>
+<hr>
+<script>
+	var i = "-1";
+	var a = ["Apple","Orange","Kiwi"];
+	document.write("Fruits: <ul>")
+	for(var j = 0; j<3;j++){
+		document.write("<li>"+a[j]+"</li>");
+	}
+	document.write("</ul>");
+</script>
+
+</body>
+</html>
+```
 
 
 
