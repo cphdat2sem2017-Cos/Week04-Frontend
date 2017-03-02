@@ -53,6 +53,13 @@ The templates are typically given in html files. To turn them into jsp pages, yo
 * to turn `bonanza.html` into `bonanza.jsp`you use the `add>JSP page` from the netbeans project. 
 * Then you copy the contents of the html file into the newly created `jsp` page
 
+## Javascript
+Javascript is a programming language which runs in the browser, as opposed to how we use Java on the server side.
+
+You will get to work extensively with Javascript on third semester, and this week we will only look at the most basic.
+
+Again, [w3schools has some reasonable intro](https://www.w3schools.com/js/default.asp).
+
 
 
 
