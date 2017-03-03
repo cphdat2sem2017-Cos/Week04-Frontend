@@ -13,7 +13,7 @@ public class Cart {
     
     public void add( String topping, String bottom ) {
         String name = bottom +"-"+topping;
-        CartItem item = items.getOrDefault( name, defaultValue )
+        //CartItem item = items.getOrDefault( name, defaultValue )
     }
 
 }

@@ -47,12 +47,4 @@ public class RenderUtils {
                 + "    <div class=\"address-bar\">Nørgaardsvej 30 | "
                 + "2800 Kongens Lyngby </div>";
     }
-    
-    public static String writeShopTable(List<CartItem> elements){
-        StringBuilder sb = new StringBuilder();
-        for (CartItem item: elements){
-            sb.append( "<tr><td>");
-            sb.append(item.)
-        }
-    }
 }

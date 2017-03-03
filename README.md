@@ -15,14 +15,14 @@ But a few new things will be thrown in along the way:
 
 ## [Link to shared google doc](https://docs.google.com/document/d/1x8VzwHrfKeVHiUy9CLpQg57RplmIUQrGPw3RJrBs-r0/edit)
 
-# Weekplan
+# Weekplan 
 
 Day | Topic
 ---|---
 Monday | Cupcake project and github
 Tuesday | Cupcake Q&A
 Wednesday | Bootstrap
-Thursday | Javascript, Evaluation
+Thursday | Javascript, [Evaluation](Cos evaluation 2017-03-02.pdf)
 Friday | Cupcake project
 
 
