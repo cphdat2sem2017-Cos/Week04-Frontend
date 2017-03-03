@@ -23,7 +23,7 @@ Monday | Cupcake project and github
 Tuesday | Cupcake Q&A
 Wednesday | Bootstrap
 Thursday | Javascript, [Evaluation](Cos evaluation 2017-03-02.pdf)
-Friday | Cupcake project
+Friday | Cupcake project [(Push to github)](Pushing to github.pdf)
 
 
 # Readings
